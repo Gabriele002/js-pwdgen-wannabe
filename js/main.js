@@ -21,4 +21,3 @@ document.getElementById("surname").innerHTML = surname;
 document.getElementById("color").innerHTML = preferiteColor;
 document.getElementById("psw_generated").innerHTML = psw;
 document.getElementById("casual_number").innerHTML = casualNumber;
-
